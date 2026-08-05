@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Age,Gender,Region,Product_Name,Category,Quantity,Unit_Price,Discount_Percent,Sales_Amount,Cost_Amount,Profit,Payment_Method,Order_Status
+ORD1001,2025-03-13,CUST854,24,Male,Sylhet,Wireless Mouse,Electronics,1,6274,10,5646.6,3865.54,1781.06,Card,Delivered
+ORD1002,2025-01-14,CUST674,30,Female,Chattogram,Bluetooth Headphones,Accessories,1,1991,5,1891.45,1366.71,524.74,Card,Returned
+ORD1003,2025-06-24,CUST384,27,Male,Khulna,Wireless Mouse,Electronics,3,6416,5,18285.6,14214.6,4071.0,COD,Delivered
+ORD1004,2026-02-18,CUST144,47,Male,Rajshahi,Bluetooth Headphones,Accessories,4,3140,10,11304.0,8955.36,2348.64,COD,Returned
+ORD1005,2025-12-27,CUST171,20,Male,Khulna,Webcam,Camera,3,7453,10,20123.1,15782.88,4340.22,COD,Delivered
+ORD1006,2025-07-06,CUST266,41,Female,Chattogram,Phone Case,Mobile,1,2477,15,2105.45,1787.49,317.96,Nagad,Cancelled
+ORD1007,2025-05-06,CUST267,47,Female,Khulna,Webcam,Camera,1,5401,5,5130.95,3749.47,1381.48,bKash,Cancelled
+ORD1008,2025-07-25,CUST374,22,Male,Sylhet,Wireless Mouse,Electronics,3,2076,0,6228.0,4779.13,1448.87,Nagad,Delivered
+ORD1009,2025-03-13,CUST352,53,Female,Barishal,Phone Case,Mobile,4,7447,15,25319.8,17532.48,7787.32,Card,Returned
+ORD1010,2025-02-16,CUST873,21,Male,Chattogram,Gaming Keyboard,Gaming,4,1996,5,7584.8,5489.58,2095.22,bKash,Cancelled
+ORD1011,2025-08-28,CUST641,34,Male,Barishal,Webcam,Camera,4,720,15,2448.0,1880.75,567.25,COD,Cancelled
+ORD1012,2025-08-11,CUST261,47,Male,Barishal,Smart Watch,Wearables,5,6496,10,29232.0,18842.27,10389.73,Nagad,Returned
+ORD1013,2025-06-02,CUST961,58,Male,Chattogram,Power Bank,Power,2,7676,0,15352.0,12051.93,3300.07,Nagad,Delivered
+ORD1014,2025-09-08,CUST119,25,Female,Khulna,Power Bank,Power,5,7724,0,38620.0,27486.43,11133.57,bKash,Delivered
+ORD1015,2025-09-06,CUST935,22,Male,Chattogram,Webcam,Camera,2,7957,0,15914.0,9120.73,6793.27,Card,Returned
+ORD1016,2025-04-19,CUST652,30,Female,Rajshahi,Smart Watch,Wearables,2,4522,20,7235.2,6007.45,1227.75,Nagad,Delivered
+ORD1017,2025-06-23,CUST121,55,Male,Sylhet,LED Monitor,Monitors,5,1191,5,5657.25,3636.53,2020.72,bKash,Delivered
+ORD1018,2026-03-17,CUST438,22,Male,Khulna,Wireless Mouse,Electronics,1,2075,0,2075.0,1648.51,426.49,Card,Delivered
+ORD1019,2025-05-05,CUST903,48,Female,Chattogram,Laptop Stand,Office,5,6125,20,24500.0,21608.3,2891.7,COD,Delivered
+ORD1020,2026-01-09,CUST155,59,Male,Dhaka,Gaming Keyboard,Gaming,4,3669,15,12474.6,9922.39,2552.21,Card,Cancelled
+ORD1021,2025-08-18,CUST243,45,Male,Khulna,Bluetooth Headphones,Accessories,3,2236,5,6372.6,4033.9,2338.7,Card,Delivered
+ORD1022,2025-11-30,CUST653,18,Male,Chattogram,LED Monitor,Monitors,1,6819,20,5455.2,3930.71,1524.49,bKash,Delivered
+ORD1023,2025-03-26,CUST488,18,Female,Khulna,LED Monitor,Monitors,4,1951,15,6633.4,6193.72,439.68,Card,Delivered
+ORD1024,2025-06-01,CUST322,21,Male,Barishal,Power Bank,Power,4,5622,15,19114.8,13308.29,5806.51,Nagad,Delivered
+ORD1025,2025-09-29,CUST261,21,Male,Chattogram,Webcam,Camera,1,4105,20,3284.0,3276.75,7.25,COD,Returned
+ORD1026,2025-10-19,CUST352,55,Male,Sylhet,USB-C Cable,Cables,1,3507,0,3507.0,2820.44,686.56,COD,Delivered
+ORD1027,2025-04-15,CUST785,38,Male,Khulna,Webcam,Camera,5,4482,10,20169.0,17981.13,2187.87,Card,Delivered
+ORD1028,2025-11-15,CUST676,24,Male,Sylhet,LED Monitor,Monitors,3,2790,0,8370.0,4624.55,3745.45,bKash,Returned
+ORD1029,2026-03-27,CUST350,41,Female,Chattogram,Laptop Stand,Office,3,7845,10,21181.5,18541.66,2639.84,Card,Returned
+ORD1030,2026-02-23,CUST667,37,Male,Chattogram,Webcam,Camera,3,6811,20,16346.4,11281.31,5065.09,Nagad,Delivered
+ORD1031,2025-04-18,CUST834,39,Male,Barishal,Power Bank,Power,1,1473,10,1325.7,922.21,403.49,Nagad,Returned
+ORD1032,2025-08-05,CUST949,35,Male,Dhaka,Smart Watch,Wearables,4,7616,0,30464.0,17514.38,12949.62,Nagad,Delivered
+ORD1033,2025-08-07,CUST674,18,Male,Dhaka,Laptop Stand,Office,3,6272,15,15993.6,13151.51,2842.09,bKash,Returned
+ORD1034,2025-03-07,CUST142,37,Female,Dhaka,Gaming Keyboard,Gaming,1,4971,20,3976.8,2932.82,1043.98,Nagad,Delivered
+ORD1035,2025-07-28,CUST735,27,Male,Chattogram,Bluetooth Headphones,Accessories,2,3097,20,4955.2,4885.31,69.89,bKash,Delivered
+ORD1036,2025-07-30,CUST921,60,Male,Khulna,Laptop Stand,Office,1,6233,10,5609.7,4744.84,864.86,bKash,Cancelled
+ORD1037,2025-04-24,CUST304,47,Female,Khulna,Phone Case,Mobile,1,7344,0,7344.0,5741.69,1602.31,bKash,Delivered
+ORD1038,2025-02-05,CUST891,35,Female,Barishal,USB-C Cable,Cables,1,3464,10,3117.6,2165.77,951.83,Card,Cancelled
+ORD1039,2025-05-14,CUST282,55,Female,Dhaka,Gaming Keyboard,Gaming,5,7894,0,39470.0,22937.69,16532.31,COD,Returned
+ORD1040,2025-09-19,CUST218,42,Male,Khulna,Gaming Keyboard,Gaming,4,6168,10,22204.8,16476.61,5728.19,COD,Cancelled
+ORD1041,2026-01-15,CUST854,60,Male,Khulna,Wireless Mouse,Electronics,4,4459,20,14268.8,13117.51,1151.29,Card,Delivered
+ORD1042,2025-06-03,CUST619,37,Female,Khulna,Webcam,Camera,3,2771,0,8313.0,6187.65,2125.35,Card,Cancelled
+ORD1043,2025-07-14,CUST793,29,Female,Rajshahi,Power Bank,Power,3,1242,5,3539.7,2472.28,1067.42,COD,Delivered
+ORD1044,2025-06-14,CUST576,46,Female,Barishal,USB-C Cable,Cables,3,3721,20,8930.4,7968.13,962.27,bKash,Returned
+ORD1045,2025-12-06,CUST748,57,Female,Dhaka,Laptop Stand,Office,4,5597,0,22388.0,14028.82,8359.18,bKash,Cancelled
+ORD1046,2025-01-24,CUST350,48,Male,Rajshahi,USB-C Cable,Cables,3,6807,5,19399.95,12044.01,7355.94,Card,Cancelled
+ORD1047,2025-05-05,CUST251,59,Male,Dhaka,USB-C Cable,Cables,5,6084,15,25857.0,20791.52,5065.48,Card,Delivered
+ORD1048,2026-04-15,CUST968,25,Female,Chattogram,Power Bank,Power,2,4005,0,8010.0,5611.0,2399.0,Card,Cancelled
+ORD1049,2026-04-02,CUST553,57,Female,Sylhet,Power Bank,Power,5,5077,10,22846.5,20473.27,2373.23,Card,Delivered
+ORD1050,2025-05-22,CUST884,51,Female,Barishal,LED Monitor,Monitors,4,2323,5,8827.4,7217.68,1609.72,bKash,Delivered
+ORD1051,2025-06-21,CUST427,52,Male,Chattogram,Bluetooth Headphones,Accessories,4,6045,10,21762.0,14829.91,6932.09,bKash,Delivered
+ORD1052,2025-07-28,CUST438,52,Female,Rajshahi,Laptop Stand,Office,4,5986,5,22746.8,13584.43,9162.37,COD,Delivered
+ORD1053,2025-01-11,CUST977,54,Female,Rajshahi,Phone Case,Mobile,4,7612,20,24358.4,24523.94,-165.54,COD,Delivered
+ORD1054,2026-01-12,CUST659,56,Male,Rajshahi,Phone Case,Mobile,3,7191,15,18337.05,15000.13,3336.92,bKash,Delivered
+ORD1055,2025-12-14,CUST917,43,Male,Rajshahi,LED Monitor,Monitors,4,437,15,1485.8,1120.04,365.76,bKash,Returned
+ORD1056,2025-12-06,CUST127,23,Female,Chattogram,Wireless Mouse,Electronics,5,7629,15,32423.25,27075.74,5347.51,Card,Delivered
+ORD1057,2025-06-17,CUST445,42,Female,Rajshahi,Smart Watch,Wearables,1,3305,10,2974.5,2006.63,967.87,Nagad,Delivered
+ORD1058,2025-06-29,CUST329,59,Male,Barishal,Wireless Mouse,Electronics,4,6336,20,20275.2,14295.62,5979.58,COD,Delivered
+ORD1059,2025-05-03,CUST229,48,Male,Sylhet,USB-C Cable,Cables,2,7074,0,14148.0,10154.88,3993.12,bKash,Delivered
+ORD1060,2026-01-18,CUST835,25,Male,Khulna,Gaming Keyboard,Gaming,3,1574,20,3777.6,3371.3,406.3,COD,Returned
+ORD1061,2026-01-02,CUST303,22,Male,Dhaka,Smart Watch,Wearables,1,4916,15,4178.6,3230.29,948.31,Nagad,Cancelled
+ORD1062,2025-06-27,CUST645,45,Female,Dhaka,Bluetooth Headphones,Accessories,5,6722,20,26888.0,25587.68,1300.32,Nagad,Delivered
+ORD1063,2025-11-22,CUST948,47,Male,Rajshahi,LED Monitor,Monitors,4,1064,15,3617.6,3444.86,172.74,bKash,Cancelled
+ORD1064,2025-08-27,CUST546,55,Female,Khulna,Smart Watch,Wearables,5,5245,20,20980.0,19908.79,1071.21,bKash,Delivered
+ORD1065,2025-12-09,CUST488,39,Male,Rajshahi,LED Monitor,Monitors,3,2197,15,5602.35,4639.14,963.21,Nagad,Delivered
+ORD1066,2026-03-27,CUST710,35,Male,Sylhet,USB-C Cable,Cables,4,3106,10,11181.6,7974.86,3206.74,bKash,Delivered
+ORD1067,2025-12-20,CUST587,59,Female,Rajshahi,Phone Case,Mobile,2,4202,20,6723.2,6342.54,380.66,COD,Delivered
+ORD1068,2025-10-25,CUST477,48,Female,Rajshahi,USB-C Cable,Cables,3,3512,5,10009.2,6665.87,3343.33,Nagad,Delivered
+ORD1069,2026-01-05,CUST297,38,Male,Barishal,Smart Watch,Wearables,4,2711,10,9759.6,6639.19,3120.41,bKash,Delivered
+ORD1070,2025-09-26,CUST711,36,Male,Chattogram,LED Monitor,Monitors,2,2465,20,3944.0,4011.46,-67.46,Nagad,Delivered
+ORD1071,2025-03-06,CUST380,20,Male,Sylhet,Laptop Stand,Office,3,2676,0,8028.0,5950.07,2077.93,Nagad,Cancelled
+ORD1072,2025-08-29,CUST590,46,Female,Chattogram,LED Monitor,Monitors,2,1040,0,2080.0,1466.39,613.61,COD,Delivered
+ORD1073,2025-02-07,CUST690,58,Male,Chattogram,Bluetooth Headphones,Accessories,4,6934,0,27736.0,18255.59,9480.41,bKash,Returned
+ORD1074,2025-08-02,CUST720,56,Male,Sylhet,Bluetooth Headphones,Accessories,3,2233,0,6699.0,4693.85,2005.15,Card,Delivered
+ORD1075,2025-06-06,CUST682,57,Male,Sylhet,Smart Watch,Wearables,4,7246,20,23187.2,23688.87,-501.67,COD,Delivered
+ORD1076,2025-03-30,CUST665,22,Male,Dhaka,Smart Watch,Wearables,2,5610,0,11220.0,6646.79,4573.21,Card,Delivered
+ORD1077,2025-12-28,CUST389,47,Male,Barishal,LED Monitor,Monitors,5,2585,0,12925.0,7916.54,5008.46,bKash,Delivered
+ORD1078,2025-11-28,CUST252,35,Male,Dhaka,USB-C Cable,Cables,5,3682,0,18410.0,12832.36,5577.64,COD,Delivered
+ORD1079,2025-08-13,CUST227,47,Female,Barishal,Webcam,Camera,3,6335,20,15204.0,15179.71,24.29,Card,Delivered
+ORD1080,2025-01-21,CUST542,38,Female,Dhaka,Power Bank,Power,5,4245,15,18041.25,12134.74,5906.51,COD,Delivered
+ORD1081,2025-12-11,CUST941,35,Male,Chattogram,Webcam,Camera,5,7988,0,39940.0,32746.19,7193.81,Card,Returned
+ORD1082,2026-02-21,CUST603,23,Female,Khulna,Smart Watch,Wearables,4,1686,20,5395.2,4502.89,892.31,Card,Delivered
+ORD1083,2025-12-22,CUST607,36,Female,Sylhet,Bluetooth Headphones,Accessories,3,7226,5,20594.1,13853.26,6740.84,COD,Delivered
+ORD1084,2026-01-31,CUST513,50,Male,Barishal,Gaming Keyboard,Gaming,1,2267,10,2040.3,1317.8,722.5,Card,Delivered
+ORD1085,2025-09-13,CUST740,46,Male,Chattogram,USB-C Cable,Cables,1,4447,10,4002.3,3193.44,808.86,Nagad,Returned
+ORD1086,2025-11-19,CUST723,33,Male,Khulna,Smart Watch,Wearables,2,3789,15,6441.3,4416.35,2024.95,COD,Returned
+ORD1087,2025-03-02,CUST763,27,Female,Barishal,Bluetooth Headphones,Accessories,4,2040,0,8160.0,5504.66,2655.34,Nagad,Returned
+ORD1088,2025-05-05,CUST567,53,Male,Rajshahi,Phone Case,Mobile,3,7038,15,17946.9,17200.86,746.04,bKash,Returned
+ORD1089,2026-02-09,CUST974,44,Female,Sylhet,Laptop Stand,Office,5,7278,0,36390.0,22728.71,13661.29,Nagad,Delivered
+ORD1090,2025-12-04,CUST601,27,Female,Sylhet,Smart Watch,Wearables,3,7060,20,16944.0,14965.35,1978.65,Card,Delivered
+ORD1091,2026-04-23,CUST429,30,Male,Sylhet,Power Bank,Power,3,6449,20,15477.6,12611.28,2866.32,Card,Delivered
+ORD1092,2026-02-20,CUST490,42,Male,Rajshahi,Wireless Mouse,Electronics,4,2806,15,9540.4,8310.38,1230.02,COD,Delivered
+ORD1093,2025-08-14,CUST202,51,Female,Dhaka,Webcam,Camera,5,2919,0,14595.0,11472.13,3122.87,bKash,Delivered
+ORD1094,2025-12-21,CUST507,59,Male,Khulna,Bluetooth Headphones,Accessories,2,4046,10,7282.8,5190.3,2092.5,Card,Delivered
+ORD1095,2025-11-20,CUST800,36,Male,Barishal,Power Bank,Power,4,494,20,1580.8,1123.3,457.5,COD,Delivered
+ORD1096,2026-04-08,CUST129,20,Female,Dhaka,Bluetooth Headphones,Accessories,1,3834,5,3642.3,2827.12,815.18,Nagad,Delivered
+ORD1097,2025-10-17,CUST798,29,Male,Chattogram,Phone Case,Mobile,3,1392,5,3967.2,2895.7,1071.5,COD,Returned
+ORD1098,2025-10-26,CUST246,32,Female,Barishal,Webcam,Camera,4,5796,5,22024.8,15866.44,6158.36,Nagad,Delivered
+ORD1099,2025-12-13,CUST659,28,Male,Rajshahi,Wireless Mouse,Electronics,3,7563,15,19285.65,17999.79,1285.86,Nagad,Returned
+ORD1100,2025-06-04,CUST303,42,Female,Dhaka,Phone Case,Mobile,3,5855,10,15808.5,11827.32,3981.18,bKash,Delivered
+ORD1101,2025-06-01,CUST122,60,Female,Khulna,Gaming Keyboard,Gaming,5,4908,10,22086.0,20074.38,2011.62,COD,Returned
+ORD1102,2026-04-08,CUST393,32,Female,Chattogram,Webcam,Camera,1,6304,15,5358.4,4884.76,473.64,bKash,Returned
+ORD1103,2025-11-27,CUST140,37,Female,Dhaka,Laptop Stand,Office,3,5346,0,16038.0,12732.87,3305.13,Nagad,Cancelled
+ORD1104,2025-08-01,CUST279,30,Male,Sylhet,Bluetooth Headphones,Accessories,2,7651,10,13771.8,9765.95,4005.85,Nagad,Returned
+ORD1105,2026-02-27,CUST593,36,Female,Dhaka,Smart Watch,Wearables,5,7003,5,33264.25,21687.66,11576.59,Card,Delivered
+ORD1106,2026-02-16,CUST670,41,Male,Rajshahi,USB-C Cable,Cables,2,7246,15,12318.2,11755.37,562.83,COD,Delivered
+ORD1107,2025-12-11,CUST368,55,Female,Barishal,Bluetooth Headphones,Accessories,5,3925,10,17662.5,14358.9,3303.6,Nagad,Delivered
+ORD1108,2025-10-15,CUST435,57,Male,Barishal,LED Monitor,Monitors,2,405,20,648.0,638.88,9.12,COD,Cancelled
+ORD1109,2025-01-24,CUST138,37,Female,Dhaka,Smart Watch,Wearables,4,5518,15,18761.2,12834.92,5926.28,COD,Delivered
+ORD1110,2026-01-16,CUST813,52,Female,Sylhet,Laptop Stand,Office,5,3383,15,14377.75,10997.68,3380.07,bKash,Delivered
+ORD1111,2025-05-24,CUST133,41,Male,Rajshahi,LED Monitor,Monitors,1,5243,15,4456.55,4212.98,243.57,Card,Delivered
+ORD1112,2025-11-27,CUST467,21,Female,Khulna,Bluetooth Headphones,Accessories,3,5817,10,15705.9,12163.45,3542.45,bKash,Delivered
+ORD1113,2025-11-02,CUST121,21,Female,Chattogram,Bluetooth Headphones,Accessories,4,5629,5,21390.2,16284.93,5105.27,bKash,Returned
+ORD1114,2025-04-21,CUST932,32,Female,Chattogram,Bluetooth Headphones,Accessories,2,6997,20,11195.2,8479.42,2715.78,COD,Delivered
+ORD1115,2025-02-26,CUST776,19,Male,Dhaka,Laptop Stand,Office,2,4625,10,8325.0,7081.79,1243.21,Nagad,Delivered
+ORD1116,2025-03-06,CUST859,44,Male,Barishal,Gaming Keyboard,Gaming,5,329,5,1562.75,1022.61,540.14,COD,Delivered
+ORD1117,2025-09-15,CUST326,57,Male,Barishal,Gaming Keyboard,Gaming,4,4404,20,14092.8,10207.5,3885.3,Nagad,Delivered
+ORD1118,2025-02-25,CUST602,46,Male,Dhaka,Wireless Mouse,Electronics,1,4123,15,3504.55,2742.18,762.37,Nagad,Returned
+ORD1119,2025-10-27,CUST661,38,Female,Sylhet,Bluetooth Headphones,Accessories,2,1233,10,2219.4,1771.98,447.42,Nagad,Delivered
+ORD1120,2025-02-28,CUST973,59,Male,Rajshahi,Webcam,Camera,5,3724,0,18620.0,14228.21,4391.79,Card,Delivered
+ORD1121,2026-01-09,CUST197,38,Female,Khulna,Gaming Keyboard,Gaming,4,6978,15,23725.2,18356.53,5368.67,Nagad,Delivered
+ORD1122,2025-02-17,CUST542,24,Female,Chattogram,LED Monitor,Monitors,2,749,0,1498.0,1160.32,337.68,COD,Returned
+ORD1123,2026-03-24,CUST781,45,Male,Khulna,Power Bank,Power,5,2900,0,14500.0,9583.32,4916.68,Nagad,Delivered
+ORD1124,2025-09-04,CUST329,24,Female,Sylhet,Webcam,Camera,1,4356,5,4138.2,2577.78,1560.42,Nagad,Delivered
+ORD1125,2026-01-28,CUST938,57,Male,Sylhet,Webcam,Camera,3,2052,15,5232.6,4790.55,442.05,Nagad,Delivered
+ORD1126,2025-06-29,CUST106,29,Male,Sylhet,Smart Watch,Wearables,2,5956,10,10720.8,9515.49,1205.31,Card,Delivered
+ORD1127,2025-08-03,CUST564,39,Male,Khulna,Wireless Mouse,Electronics,2,951,20,1521.6,1156.58,365.02,Nagad,Cancelled
+ORD1128,2025-03-21,CUST261,57,Male,Barishal,Webcam,Camera,3,5084,0,15252.0,12026.24,3225.76,COD,Delivered
+ORD1129,2025-05-20,CUST320,50,Male,Khulna,Phone Case,Mobile,4,4178,20,13369.6,11186.21,2183.39,Card,Delivered
+ORD1130,2025-01-24,CUST325,43,Male,Dhaka,Webcam,Camera,3,4186,20,10046.4,9168.92,877.48,bKash,Delivered
+ORD1131,2025-03-03,CUST107,49,Female,Chattogram,Laptop Stand,Office,2,6460,10,11628.0,8115.71,3512.29,bKash,Delivered
+ORD1132,2026-02-17,CUST462,22,Female,Barishal,USB-C Cable,Cables,5,4298,20,17192.0,16654.87,537.13,COD,Delivered
+ORD1133,2025-10-22,CUST539,54,Female,Barishal,LED Monitor,Monitors,1,7746,0,7746.0,6063.33,1682.67,Card,Delivered
+ORD1134,2025-11-13,CUST571,41,Male,Rajshahi,Phone Case,Mobile,1,370,10,333.0,220.67,112.33,COD,Delivered
+ORD1135,2026-03-22,CUST417,39,Male,Khulna,Webcam,Camera,4,3480,20,11136.0,7951.59,3184.41,bKash,Delivered
+ORD1136,2026-02-02,CUST457,40,Male,Chattogram,Bluetooth Headphones,Accessories,5,4546,20,18184.0,13691.51,4492.49,COD,Delivered
+ORD1137,2026-01-24,CUST771,22,Male,Barishal,USB-C Cable,Cables,3,1621,20,3890.4,2875.37,1015.03,Card,Delivered
+ORD1138,2025-11-16,CUST430,58,Female,Chattogram,Webcam,Camera,5,3877,20,15508.0,14027.14,1480.86,Card,Delivered
+ORD1139,2025-10-30,CUST157,40,Male,Khulna,LED Monitor,Monitors,4,5372,10,19339.2,16438.51,2900.69,Card,Delivered
+ORD1140,2026-03-19,CUST975,23,Female,Rajshahi,Wireless Mouse,Electronics,1,3220,10,2898.0,1837.71,1060.29,COD,Delivered
+ORD1141,2025-03-19,CUST163,46,Male,Khulna,USB-C Cable,Cables,5,2833,20,11332.0,9609.82,1722.18,COD,Returned
+ORD1142,2025-09-26,CUST635,57,Male,Khulna,Wireless Mouse,Electronics,2,2229,15,3789.3,3644.71,144.59,Nagad,Delivered
+ORD1143,2025-01-27,CUST908,58,Female,Dhaka,Phone Case,Mobile,4,6544,10,23558.4,19194.92,4363.48,Nagad,Delivered
+ORD1144,2025-12-03,CUST717,27,Female,Dhaka,Phone Case,Mobile,5,2527,10,11371.5,9418.23,1953.27,bKash,Delivered
+ORD1145,2025-02-13,CUST417,53,Female,Barishal,Phone Case,Mobile,3,1256,20,3014.4,2793.54,220.86,Nagad,Delivered
+ORD1146,2025-01-10,CUST471,37,Male,Chattogram,Bluetooth Headphones,Accessories,5,5492,15,23341.0,18873.04,4467.96,Nagad,Delivered
+ORD1147,2026-03-09,CUST907,24,Male,Barishal,USB-C Cable,Cables,2,1326,5,2519.4,1513.85,1005.55,Nagad,Returned
+ORD1148,2026-03-02,CUST809,57,Male,Barishal,Webcam,Camera,2,3286,5,6243.4,3902.5,2340.9,Card,Delivered
+ORD1149,2025-11-09,CUST391,46,Male,Sylhet,Gaming Keyboard,Gaming,4,5740,5,21812.0,18638.67,3173.33,bKash,Delivered
+ORD1150,2025-08-25,CUST887,36,Female,Sylhet,USB-C Cable,Cables,4,3213,20,10281.6,10484.65,-203.05,Card,Delivered
+ORD1151,2025-09-04,CUST995,41,Male,Barishal,Webcam,Camera,2,1333,10,2399.4,1503.86,895.54,COD,Delivered
+ORD1152,2025-03-17,CUST950,45,Male,Chattogram,Laptop Stand,Office,1,2434,15,2068.9,1933.65,135.25,Card,Delivered
+ORD1153,2025-05-01,CUST495,23,Female,Chattogram,Phone Case,Mobile,1,636,15,540.6,436.0,104.6,COD,Delivered
+ORD1154,2025-05-27,CUST949,48,Male,Barishal,Gaming Keyboard,Gaming,1,6682,5,6347.9,3923.35,2424.55,Card,Delivered
+ORD1155,2025-04-21,CUST955,27,Female,Dhaka,Wireless Mouse,Electronics,5,7620,0,38100.0,21150.49,16949.51,Nagad,Delivered
+ORD1156,2026-02-11,CUST737,47,Male,Dhaka,Bluetooth Headphones,Accessories,3,591,5,1684.35,1176.12,508.23,Card,Returned
+ORD1157,2026-01-03,CUST247,36,Female,Dhaka,Wireless Mouse,Electronics,5,5376,20,21504.0,18957.46,2546.54,Nagad,Delivered
+ORD1158,2025-07-04,CUST169,51,Male,Rajshahi,Phone Case,Mobile,5,1734,0,8670.0,5993.93,2676.07,Card,Delivered
+ORD1159,2025-02-04,CUST453,33,Male,Sylhet,Gaming Keyboard,Gaming,4,2277,0,9108.0,5887.55,3220.45,Nagad,Delivered
+ORD1160,2025-03-31,CUST950,47,Female,Barishal,Gaming Keyboard,Gaming,1,4672,10,4204.8,3595.79,609.01,bKash,Delivered
+ORD1161,2026-02-10,CUST304,20,Female,Khulna,LED Monitor,Monitors,1,502,10,451.8,303.42,148.38,Card,Returned
+ORD1162,2026-03-18,CUST899,21,Female,Khulna,Smart Watch,Wearables,4,499,5,1896.2,1251.99,644.21,COD,Delivered
+ORD1163,2025-07-17,CUST447,29,Female,Barishal,Phone Case,Mobile,4,6289,15,21382.6,19912.29,1470.31,Card,Delivered
+ORD1164,2025-02-10,CUST540,56,Male,Sylhet,Smart Watch,Wearables,5,6763,0,33815.0,25236.54,8578.46,Nagad,Delivered
+ORD1165,2025-11-05,CUST834,45,Male,Barishal,Bluetooth Headphones,Accessories,1,2886,10,2597.4,1826.13,771.27,Card,Delivered
+ORD1166,2025-08-11,CUST381,58,Male,Dhaka,Wireless Mouse,Electronics,4,6154,10,22154.4,17625.3,4529.1,Card,Delivered
+ORD1167,2025-12-14,CUST900,46,Male,Chattogram,Laptop Stand,Office,5,455,5,2161.25,1772.55,388.7,COD,Delivered
+ORD1168,2025-03-20,CUST795,46,Female,Khulna,Gaming Keyboard,Gaming,3,3336,20,8006.4,5591.91,2414.49,Card,Delivered
+ORD1169,2025-11-29,CUST385,33,Male,Dhaka,Laptop Stand,Office,5,4537,10,20416.5,14914.69,5501.81,bKash,Delivered
+ORD1170,2026-02-01,CUST366,46,Male,Sylhet,Phone Case,Mobile,5,7683,20,30732.0,22349.67,8382.33,Nagad,Cancelled
+ORD1171,2025-08-20,CUST276,46,Male,Barishal,USB-C Cable,Cables,4,1204,5,4575.2,3757.75,817.45,Nagad,Cancelled
+ORD1172,2025-06-03,CUST971,28,Male,Khulna,Bluetooth Headphones,Accessories,3,4705,20,11292.0,8869.84,2422.16,bKash,Delivered
+ORD1173,2025-10-11,CUST686,41,Female,Sylhet,Laptop Stand,Office,2,2139,15,3636.3,2383.26,1253.04,bKash,Returned
+ORD1174,2026-01-04,CUST590,51,Female,Rajshahi,Bluetooth Headphones,Accessories,1,2733,15,2323.05,2240.76,82.29,COD,Delivered
+ORD1175,2025-06-26,CUST231,53,Male,Chattogram,Bluetooth Headphones,Accessories,3,3886,15,9909.3,8552.65,1356.65,Card,Returned
+ORD1176,2025-03-24,CUST430,32,Female,Sylhet,Bluetooth Headphones,Accessories,1,4444,5,4221.8,2809.11,1412.69,Nagad,Delivered
+ORD1177,2025-11-17,CUST410,57,Male,Sylhet,USB-C Cable,Cables,3,5402,20,12964.8,10114.19,2850.61,bKash,Returned
+ORD1178,2025-11-06,CUST445,54,Male,Dhaka,Laptop Stand,Office,5,1602,20,6408.0,5964.01,443.99,COD,Delivered
+ORD1179,2025-08-02,CUST732,58,Male,Rajshahi,Smart Watch,Wearables,5,5534,5,26286.5,20948.37,5338.13,Nagad,Cancelled
+ORD1180,2025-02-07,CUST805,21,Male,Rajshahi,LED Monitor,Monitors,3,2206,15,5625.3,4171.37,1453.93,Card,Delivered
+ORD1181,2026-03-18,CUST835,38,Female,Rajshahi,USB-C Cable,Cables,4,2986,20,9555.2,7032.51,2522.69,bKash,Delivered
+ORD1182,2025-03-04,CUST373,46,Male,Chattogram,Power Bank,Power,5,1069,10,4810.5,3288.61,1521.89,COD,Delivered
+ORD1183,2026-03-20,CUST263,38,Female,Chattogram,Phone Case,Mobile,3,7279,20,17469.6,14475.67,2993.93,bKash,Delivered
+ORD1184,2025-02-16,CUST502,50,Female,Chattogram,LED Monitor,Monitors,5,4285,10,19282.5,14660.91,4621.59,bKash,Returned
+ORD1185,2026-03-28,CUST963,59,Female,Khulna,Wireless Mouse,Electronics,3,614,10,1657.8,1259.23,398.57,COD,Delivered
+ORD1186,2026-01-27,CUST512,41,Male,Rajshahi,Laptop Stand,Office,4,7429,10,26744.4,22180.83,4563.57,COD,Returned
+ORD1187,2025-07-17,CUST616,46,Female,Sylhet,USB-C Cable,Cables,5,3169,20,12676.0,9949.43,2726.57,COD,Delivered
+ORD1188,2025-07-07,CUST873,27,Male,Sylhet,Phone Case,Mobile,1,3257,10,2931.3,2281.9,649.4,Card,Returned
+ORD1189,2026-02-16,CUST585,51,Female,Chattogram,Wireless Mouse,Electronics,1,518,5,492.1,384.7,107.4,bKash,Delivered
+ORD1190,2026-01-14,CUST962,37,Female,Sylhet,Gaming Keyboard,Gaming,5,1531,15,6506.75,6257.7,249.05,Card,Cancelled
+ORD1191,2025-12-11,CUST212,44,Female,Barishal,Smart Watch,Wearables,5,4090,0,20450.0,13281.39,7168.61,COD,Returned
+ORD1192,2026-01-05,CUST152,55,Female,Chattogram,Smart Watch,Wearables,4,5570,20,17824.0,15728.82,2095.18,Card,Delivered
+ORD1193,2025-08-14,CUST421,44,Male,Rajshahi,Wireless Mouse,Electronics,2,4890,0,9780.0,5882.79,3897.21,bKash,Delivered
+ORD1194,2026-01-12,CUST844,21,Male,Sylhet,Webcam,Camera,5,7740,15,32895.0,30405.07,2489.93,bKash,Returned
+ORD1195,2025-03-30,CUST570,52,Female,Sylhet,LED Monitor,Monitors,3,4504,15,11485.2,8576.24,2908.96,Nagad,Cancelled
+ORD1196,2025-05-23,CUST671,37,Male,Khulna,Webcam,Camera,3,4166,5,11873.1,10104.4,1768.7,Nagad,Cancelled
+ORD1197,2026-04-24,CUST914,35,Female,Dhaka,LED Monitor,Monitors,2,2797,15,4754.9,3603.53,1151.37,Card,Delivered
+ORD1198,2026-01-01,CUST180,40,Female,Barishal,Laptop Stand,Office,3,2579,0,7737.0,4856.21,2880.79,Nagad,Cancelled
+ORD1199,2025-10-15,CUST812,35,Male,Dhaka,USB-C Cable,Cables,4,1855,20,5936.0,4624.19,1311.81,bKash,Delivered
+ORD1200,2025-07-31,CUST438,48,Male,Barishal,Power Bank,Power,1,2048,5,1945.6,1155.43,790.17,bKash,Delivered
+ORD1201,2025-04-13,CUST874,36,Female,Khulna,Laptop Stand,Office,5,3533,15,15015.25,11992.96,3022.29,COD,Delivered
+ORD1202,2025-03-31,CUST527,29,Male,Rajshahi,USB-C Cable,Cables,5,4583,0,22915.0,18253.45,4661.55,Card,Delivered
+ORD1203,2025-02-24,CUST443,36,Female,Barishal,Wireless Mouse,Electronics,3,275,10,742.5,580.26,162.24,Card,Delivered
+ORD1204,2025-06-19,CUST266,47,Female,Barishal,LED Monitor,Monitors,5,2435,5,11566.25,9355.02,2211.23,bKash,Delivered
+ORD1205,2026-03-15,CUST754,43,Female,Sylhet,Smart Watch,Wearables,3,4851,5,13825.35,8693.72,5131.63,Nagad,Delivered
+ORD1206,2026-04-25,CUST354,18,Female,Rajshahi,Bluetooth Headphones,Accessories,4,1713,5,6509.4,4651.91,1857.49,bKash,Delivered
+ORD1207,2025-01-06,CUST367,59,Female,Barishal,Gaming Keyboard,Gaming,3,2673,20,6415.2,5975.58,439.62,bKash,Delivered
+ORD1208,2025-09-15,CUST820,37,Male,Barishal,LED Monitor,Monitors,1,2713,5,2577.35,1789.12,788.23,Nagad,Delivered
+ORD1209,2025-08-21,CUST865,56,Female,Rajshahi,USB-C Cable,Cables,5,1995,5,9476.25,6774.11,2702.14,Card,Returned
+ORD1210,2025-02-11,CUST638,46,Female,Dhaka,USB-C Cable,Cables,2,5773,20,9236.8,9072.23,164.57,COD,Delivered
+ORD1211,2025-03-26,CUST435,51,Female,Dhaka,Power Bank,Power,5,1856,20,7424.0,6448.66,975.34,bKash,Cancelled
+ORD1212,2025-01-29,CUST564,26,Female,Rajshahi,LED Monitor,Monitors,5,944,20,3776.0,3163.72,612.28,COD,Returned
+ORD1213,2026-02-23,CUST103,31,Male,Dhaka,Smart Watch,Wearables,4,6125,0,24500.0,16094.2,8405.8,Card,Delivered
+ORD1214,2025-08-30,CUST132,36,Female,Chattogram,Power Bank,Power,1,693,0,693.0,565.67,127.33,bKash,Cancelled
+ORD1215,2026-04-15,CUST486,42,Male,Barishal,Gaming Keyboard,Gaming,4,7501,15,25503.4,20135.84,5367.56,bKash,Cancelled
+ORD1216,2025-03-07,CUST845,32,Male,Dhaka,Bluetooth Headphones,Accessories,3,1662,20,3988.8,3271.44,717.36,Nagad,Delivered
+ORD1217,2025-05-07,CUST571,40,Male,Khulna,Phone Case,Mobile,5,4557,15,19367.25,17597.02,1770.23,bKash,Cancelled
+ORD1218,2026-04-25,CUST116,33,Male,Dhaka,Wireless Mouse,Electronics,1,6831,15,5806.35,4891.2,915.15,COD,Returned
+ORD1219,2025-01-23,CUST511,46,Male,Sylhet,LED Monitor,Monitors,1,5097,0,5097.0,3140.15,1956.85,bKash,Delivered
+ORD1220,2026-01-10,CUST689,38,Female,Chattogram,Power Bank,Power,2,2569,5,4881.1,3957.61,923.49,Nagad,Delivered
+ORD1221,2025-10-13,CUST705,29,Female,Sylhet,USB-C Cable,Cables,5,3587,10,16141.5,11196.67,4944.83,Card,Delivered
+ORD1222,2025-08-02,CUST518,27,Female,Rajshahi,Phone Case,Mobile,3,6637,20,15928.8,12664.56,3264.24,bKash,Returned
+ORD1223,2025-12-29,CUST247,47,Male,Sylhet,USB-C Cable,Cables,4,7157,5,27196.6,18069.96,9126.64,Card,Delivered
+ORD1224,2025-04-15,CUST438,59,Male,Rajshahi,Power Bank,Power,5,1298,15,5516.5,3995.06,1521.44,Nagad,Delivered
+ORD1225,2025-11-06,CUST717,20,Male,Chattogram,USB-C Cable,Cables,5,622,10,2799.0,2027.21,771.79,bKash,Delivered
+ORD1226,2025-04-08,CUST859,25,Female,Chattogram,Gaming Keyboard,Gaming,2,2683,0,5366.0,3258.17,2107.83,bKash,Delivered
+ORD1227,2025-10-01,CUST764,40,Female,Khulna,Power Bank,Power,2,2834,10,5101.2,3699.95,1401.25,Nagad,Returned
+ORD1228,2025-06-13,CUST308,41,Female,Rajshahi,LED Monitor,Monitors,4,1007,15,3423.8,3043.72,380.08,COD,Returned
+ORD1229,2025-10-27,CUST693,44,Female,Chattogram,Laptop Stand,Office,2,332,10,597.6,464.4,133.2,bKash,Delivered
+ORD1230,2025-12-02,CUST801,39,Female,Rajshahi,Phone Case,Mobile,2,4867,5,9247.3,6665.95,2581.35,Card,Delivered
+ORD1231,2025-09-08,CUST288,52,Male,Sylhet,Gaming Keyboard,Gaming,2,1586,5,3013.4,2361.51,651.89,COD,Delivered
+ORD1232,2025-04-29,CUST169,27,Male,Chattogram,Wireless Mouse,Electronics,1,3578,5,3399.1,2781.85,617.25,Card,Delivered
+ORD1233,2025-12-04,CUST599,19,Male,Sylhet,Webcam,Camera,1,5424,20,4339.2,4319.91,19.29,Card,Delivered
+ORD1234,2025-05-27,CUST117,50,Female,Chattogram,Power Bank,Power,1,6116,10,5504.4,4248.48,1255.92,COD,Delivered
+ORD1235,2025-05-10,CUST934,40,Female,Rajshahi,Laptop Stand,Office,5,2174,5,10326.5,7797.49,2529.01,COD,Delivered
+ORD1236,2025-04-26,CUST407,23,Male,Dhaka,LED Monitor,Monitors,4,4828,5,18346.4,15784.91,2561.49,Card,Delivered
+ORD1237,2025-12-26,CUST275,23,Female,Rajshahi,Power Bank,Power,4,4099,0,16396.0,11836.63,4559.37,Nagad,Returned
+ORD1238,2026-04-07,CUST988,54,Female,Khulna,Power Bank,Power,1,7729,0,7729.0,4730.43,2998.57,COD,Delivered
+ORD1239,2026-03-12,CUST422,19,Male,Sylhet,Power Bank,Power,3,4816,0,14448.0,8646.05,5801.95,bKash,Cancelled
+ORD1240,2025-10-18,CUST954,42,Female,Rajshahi,Bluetooth Headphones,Accessories,4,2651,5,10073.8,7446.86,2626.94,bKash,Cancelled
+ORD1241,2025-08-12,CUST337,22,Female,Sylhet,Power Bank,Power,1,6306,10,5675.4,3559.72,2115.68,Card,Delivered
+ORD1242,2025-07-02,CUST666,42,Female,Chattogram,Smart Watch,Wearables,1,6618,15,5625.3,4516.54,1108.76,Card,Delivered
+ORD1243,2025-02-12,CUST374,27,Female,Barishal,Smart Watch,Wearables,5,6737,5,32000.75,25012.44,6988.31,bKash,Cancelled
+ORD1244,2025-06-07,CUST555,41,Female,Dhaka,Gaming Keyboard,Gaming,4,3154,0,12616.0,7250.55,5365.45,bKash,Delivered
+ORD1245,2025-07-28,CUST205,19,Male,Khulna,Phone Case,Mobile,2,3876,20,6201.6,5424.69,776.91,COD,Returned
+ORD1246,2025-07-31,CUST497,23,Male,Sylhet,Gaming Keyboard,Gaming,5,7275,15,30918.75,20127.45,10791.3,bKash,Cancelled
+ORD1247,2025-09-10,CUST249,22,Male,Rajshahi,Laptop Stand,Office,4,1337,10,4813.2,3376.22,1436.98,Nagad,Delivered
+ORD1248,2025-05-07,CUST838,58,Female,Sylhet,LED Monitor,Monitors,3,6611,0,19833.0,12841.94,6991.06,bKash,Delivered
+ORD1249,2025-06-20,CUST961,57,Female,Khulna,Laptop Stand,Office,1,2695,0,2695.0,2172.66,522.34,Card,Delivered
+ORD1250,2025-12-22,CUST305,48,Female,Chattogram,Webcam,Camera,4,1315,10,4734.0,3348.41,1385.59,Card,Delivered
+ORD1251,2025-05-24,CUST936,43,Female,Dhaka,LED Monitor,Monitors,3,4917,5,14013.45,9410.98,4602.47,bKash,Returned
+ORD1252,2026-01-08,CUST572,31,Female,Khulna,Laptop Stand,Office,5,5784,20,23136.0,16116.17,7019.83,COD,Delivered
+ORD1253,2025-12-04,CUST257,45,Female,Dhaka,Laptop Stand,Office,4,5388,10,19396.8,13261.93,6134.87,Card,Returned
+ORD1254,2026-04-17,CUST990,44,Male,Khulna,Webcam,Camera,4,3483,20,11145.6,9568.29,1577.31,COD,Delivered
+ORD1255,2025-11-27,CUST793,59,Female,Khulna,Gaming Keyboard,Gaming,2,1562,20,2499.2,1755.56,743.64,Card,Delivered
+ORD1256,2025-09-23,CUST671,55,Male,Rajshahi,Bluetooth Headphones,Accessories,1,2319,5,2203.05,1595.2,607.85,Nagad,Delivered
+ORD1257,2025-01-13,CUST594,24,Female,Rajshahi,Webcam,Camera,4,5856,20,18739.2,13836.58,4902.62,COD,Delivered
+ORD1258,2025-04-16,CUST633,48,Female,Rajshahi,Gaming Keyboard,Gaming,2,2755,10,4959.0,3707.9,1251.1,COD,Delivered
+ORD1259,2025-12-30,CUST217,19,Female,Barishal,Gaming Keyboard,Gaming,4,750,10,2700.0,1686.19,1013.81,COD,Cancelled
+ORD1260,2025-06-19,CUST673,45,Female,Chattogram,USB-C Cable,Cables,2,4427,5,8411.3,6189.09,2222.21,Card,Cancelled
+ORD1261,2026-01-13,CUST728,30,Female,Sylhet,Laptop Stand,Office,2,5446,15,9258.2,7153.94,2104.26,Card,Delivered
+ORD1262,2026-02-19,CUST915,22,Male,Sylhet,USB-C Cable,Cables,1,1885,10,1696.5,1419.65,276.85,bKash,Delivered
+ORD1263,2026-03-18,CUST601,51,Female,Sylhet,USB-C Cable,Cables,3,3948,0,11844.0,7353.17,4490.83,Card,Returned
+ORD1264,2025-08-23,CUST732,29,Female,Sylhet,Webcam,Camera,4,1135,10,4086.0,2928.46,1157.54,COD,Cancelled
+ORD1265,2025-04-04,CUST482,27,Female,Rajshahi,Gaming Keyboard,Gaming,2,1165,5,2213.5,1473.61,739.89,bKash,Returned
+ORD1266,2025-12-22,CUST760,29,Male,Rajshahi,Phone Case,Mobile,4,1721,15,5851.4,4967.39,884.01,Nagad,Delivered
+ORD1267,2026-03-20,CUST467,18,Female,Chattogram,Gaming Keyboard,Gaming,2,7097,15,12064.9,10180.51,1884.39,bKash,Delivered
+ORD1268,2025-09-09,CUST525,46,Female,Chattogram,Power Bank,Power,5,5549,15,23583.25,18324.64,5258.61,COD,Returned
+ORD1269,2025-10-03,CUST395,28,Female,Sylhet,USB-C Cable,Cables,1,2592,0,2592.0,1617.95,974.05,Card,Returned
+ORD1270,2025-10-06,CUST943,41,Male,Barishal,Bluetooth Headphones,Accessories,5,4891,0,24455.0,15219.08,9235.92,Card,Returned
+ORD1271,2025-01-17,CUST560,34,Female,Dhaka,Phone Case,Mobile,2,1038,5,1972.2,1308.67,663.53,Card,Delivered
+ORD1272,2026-03-17,CUST827,57,Female,Chattogram,USB-C Cable,Cables,2,6841,20,10945.6,10070.86,874.74,bKash,Delivered
+ORD1273,2025-11-02,CUST651,28,Female,Barishal,Wireless Mouse,Electronics,2,4870,10,8766.0,6756.79,2009.21,Nagad,Delivered
+ORD1274,2025-12-14,CUST934,24,Male,Rajshahi,Smart Watch,Wearables,5,7228,20,28912.0,29493.2,-581.2,COD,Delivered
+ORD1275,2026-03-01,CUST353,43,Female,Chattogram,Laptop Stand,Office,2,2245,5,4265.5,3331.92,933.58,Nagad,Cancelled
+ORD1276,2026-03-27,CUST887,23,Female,Sylhet,Phone Case,Mobile,4,3902,0,15608.0,11254.61,4353.39,Nagad,Cancelled
+ORD1277,2025-01-02,CUST989,23,Female,Barishal,LED Monitor,Monitors,3,7984,15,20359.2,15290.19,5069.01,Nagad,Delivered
+ORD1278,2025-09-11,CUST374,38,Female,Khulna,Phone Case,Mobile,5,1984,15,8432.0,7665.27,766.73,bKash,Returned
+ORD1279,2025-11-17,CUST902,47,Male,Dhaka,Gaming Keyboard,Gaming,4,7524,0,30096.0,16926.13,13169.87,bKash,Delivered
+ORD1280,2026-04-11,CUST235,59,Female,Chattogram,Wireless Mouse,Electronics,4,3704,5,14075.2,12131.89,1943.31,Nagad,Delivered
+ORD1281,2025-11-29,CUST269,21,Female,Barishal,Smart Watch,Wearables,3,875,10,2362.5,1914.72,447.78,Nagad,Cancelled
+ORD1282,2025-01-01,CUST318,48,Male,Chattogram,Phone Case,Mobile,2,5569,0,11138.0,8242.1,2895.9,bKash,Returned
+ORD1283,2026-03-17,CUST532,26,Female,Dhaka,Wireless Mouse,Electronics,4,266,10,957.6,819.94,137.66,bKash,Delivered
+ORD1284,2025-06-03,CUST240,42,Male,Barishal,Bluetooth Headphones,Accessories,1,1045,10,940.5,678.46,262.04,bKash,Delivered
+ORD1285,2025-08-14,CUST459,31,Male,Rajshahi,Webcam,Camera,5,269,20,1076.0,975.8,100.2,Card,Delivered
+ORD1286,2025-07-16,CUST459,45,Female,Chattogram,Bluetooth Headphones,Accessories,1,1346,0,1346.0,954.56,391.44,bKash,Delivered
+ORD1287,2025-11-08,CUST391,19,Female,Chattogram,USB-C Cable,Cables,1,4733,20,3786.4,3369.91,416.49,bKash,Cancelled
+ORD1288,2026-02-11,CUST345,49,Female,Dhaka,Smart Watch,Wearables,4,5493,0,21972.0,16734.46,5237.54,bKash,Delivered
+ORD1289,2026-04-24,CUST424,26,Female,Sylhet,Bluetooth Headphones,Accessories,5,4527,0,22635.0,18480.53,4154.47,Card,Delivered
+ORD1290,2026-01-30,CUST174,19,Male,Dhaka,Laptop Stand,Office,5,6448,15,27404.0,26040.32,1363.68,Nagad,Delivered
+ORD1291,2025-11-18,CUST829,50,Female,Rajshahi,Wireless Mouse,Electronics,1,7971,15,6775.35,5474.36,1300.99,Card,Delivered
+ORD1292,2025-06-08,CUST180,50,Male,Chattogram,Power Bank,Power,5,5246,5,24918.5,16391.55,8526.95,Nagad,Delivered
+ORD1293,2026-03-10,CUST344,21,Male,Dhaka,Bluetooth Headphones,Accessories,5,2740,15,11645.0,10235.12,1409.88,Card,Delivered
+ORD1294,2026-01-15,CUST773,29,Male,Dhaka,Webcam,Camera,4,5187,0,20748.0,13144.03,7603.97,bKash,Cancelled
+ORD1295,2026-02-05,CUST942,34,Male,Khulna,Laptop Stand,Office,1,4266,10,3839.4,2948.71,890.69,bKash,Cancelled
+ORD1296,2025-08-08,CUST378,51,Male,Khulna,Bluetooth Headphones,Accessories,3,6519,0,19557.0,12525.34,7031.66,COD,Delivered
+ORD1297,2025-10-18,CUST270,41,Male,Khulna,Power Bank,Power,4,3150,0,12600.0,8629.67,3970.33,COD,Returned
+ORD1298,2026-03-16,CUST983,18,Male,Dhaka,USB-C Cable,Cables,1,6268,20,5014.4,3451.75,1562.65,Card,Delivered
+ORD1299,2026-04-13,CUST831,59,Female,Chattogram,Laptop Stand,Office,4,1666,0,6664.0,4659.96,2004.04,Nagad,Delivered
+ORD1300,2025-03-03,CUST614,21,Male,Chattogram,Gaming Keyboard,Gaming,4,2422,0,9688.0,6823.4,2864.6,COD,Delivered
+ORD1301,2025-06-09,CUST435,23,Female,Dhaka,LED Monitor,Monitors,1,7294,10,6564.6,5535.07,1029.53,Nagad,Delivered
+ORD1302,2025-05-05,CUST575,41,Female,Chattogram,Webcam,Camera,3,6626,10,17890.2,14902.25,2987.95,bKash,Delivered
+ORD1303,2025-11-22,CUST959,18,Female,Dhaka,Phone Case,Mobile,1,395,5,375.25,275.01,100.24,Card,Cancelled
+ORD1304,2025-08-03,CUST603,21,Male,Barishal,Bluetooth Headphones,Accessories,3,1880,20,4512.0,4599.09,-87.09,Nagad,Delivered
+ORD1305,2026-04-04,CUST481,47,Male,Sylhet,USB-C Cable,Cables,1,7550,20,6040.0,4994.52,1045.48,COD,Returned
+ORD1306,2025-08-11,CUST778,26,Male,Khulna,Phone Case,Mobile,2,813,20,1300.8,1143.58,157.22,Nagad,Delivered
+ORD1307,2025-02-08,CUST307,26,Male,Chattogram,Gaming Keyboard,Gaming,4,2805,15,9537.0,6994.86,2542.14,COD,Delivered
+ORD1308,2025-07-03,CUST888,31,Female,Khulna,LED Monitor,Monitors,4,2772,15,9424.8,6459.86,2964.94,Card,Delivered
+ORD1309,2025-12-23,CUST717,20,Male,Khulna,Bluetooth Headphones,Accessories,1,1491,10,1341.9,1152.73,189.17,bKash,Delivered
+ORD1310,2025-06-03,CUST366,29,Male,Rajshahi,Gaming Keyboard,Gaming,2,3446,20,5513.6,3881.69,1631.91,Card,Returned
+ORD1311,2026-02-11,CUST243,25,Male,Dhaka,USB-C Cable,Cables,5,975,15,4143.75,2815.39,1328.36,bKash,Delivered
+ORD1312,2025-05-13,CUST932,22,Male,Dhaka,Phone Case,Mobile,2,3249,0,6498.0,4595.56,1902.44,bKash,Cancelled
+ORD1313,2025-08-25,CUST151,28,Female,Barishal,Laptop Stand,Office,4,953,10,3430.8,2222.71,1208.09,Card,Delivered
+ORD1314,2025-04-20,CUST291,35,Female,Rajshahi,Phone Case,Mobile,1,5796,15,4926.6,3458.23,1468.37,bKash,Delivered
+ORD1315,2025-09-13,CUST521,53,Female,Dhaka,Webcam,Camera,5,5254,5,24956.5,19039.58,5916.92,COD,Delivered
+ORD1316,2026-02-13,CUST638,33,Male,Rajshahi,Laptop Stand,Office,4,3634,5,13809.2,10517.03,3292.17,Nagad,Delivered
+ORD1317,2025-07-18,CUST376,29,Male,Khulna,LED Monitor,Monitors,5,3018,20,12072.0,10346.4,1725.6,bKash,Delivered
+ORD1318,2026-01-28,CUST698,32,Male,Dhaka,Wireless Mouse,Electronics,3,6824,15,17401.2,14186.01,3215.19,bKash,Cancelled
+ORD1319,2025-04-23,CUST689,42,Female,Chattogram,Smart Watch,Wearables,2,4571,0,9142.0,6914.03,2227.97,bKash,Delivered
+ORD1320,2025-01-15,CUST820,40,Male,Sylhet,Gaming Keyboard,Gaming,5,6804,10,30618.0,27106.27,3511.73,bKash,Delivered
+ORD1321,2025-01-29,CUST338,56,Male,Dhaka,Smart Watch,Wearables,5,1638,15,6961.5,4588.45,2373.05,Card,Delivered
+ORD1322,2025-04-01,CUST921,38,Male,Dhaka,Webcam,Camera,3,1850,5,5272.5,3563.13,1709.37,bKash,Returned
+ORD1323,2025-02-07,CUST482,60,Female,Sylhet,Bluetooth Headphones,Accessories,2,7134,20,11414.4,11163.01,251.39,COD,Delivered
+ORD1324,2025-08-12,CUST910,58,Female,Barishal,Gaming Keyboard,Gaming,3,1317,5,3753.45,2954.3,799.15,Nagad,Delivered
+ORD1325,2025-10-29,CUST934,29,Female,Khulna,Webcam,Camera,5,6647,10,29911.5,20282.46,9629.04,Nagad,Delivered
+ORD1326,2026-01-30,CUST681,20,Male,Sylhet,Wireless Mouse,Electronics,2,7972,20,12755.2,10455.0,2300.2,Nagad,Returned
+ORD1327,2026-01-17,CUST179,33,Female,Khulna,Webcam,Camera,2,1052,15,1788.4,1237.1,551.3,bKash,Cancelled
+ORD1328,2025-05-08,CUST809,22,Female,Khulna,Gaming Keyboard,Gaming,1,3858,0,3858.0,2398.16,1459.84,COD,Cancelled
+ORD1329,2025-03-27,CUST523,49,Female,Khulna,Wireless Mouse,Electronics,1,3361,15,2856.85,2513.35,343.5,Card,Delivered
+ORD1330,2025-02-07,CUST918,20,Female,Dhaka,Webcam,Camera,4,5532,5,21021.6,13142.2,7879.4,Nagad,Delivered
+ORD1331,2025-03-24,CUST849,22,Male,Khulna,Bluetooth Headphones,Accessories,1,3000,5,2850.0,2369.22,480.78,Card,Cancelled
+ORD1332,2025-08-11,CUST260,21,Male,Khulna,Phone Case,Mobile,1,7920,5,7524.0,5654.69,1869.31,bKash,Delivered
+ORD1333,2025-05-25,CUST404,33,Male,Dhaka,Power Bank,Power,4,6114,20,19564.8,15202.38,4362.42,Card,Returned
+ORD1334,2025-08-07,CUST189,36,Female,Chattogram,LED Monitor,Monitors,5,1458,0,7290.0,4719.72,2570.28,COD,Delivered
+ORD1335,2025-08-31,CUST964,25,Female,Rajshahi,Laptop Stand,Office,2,5428,10,9770.4,8834.67,935.73,Card,Delivered
+ORD1336,2025-07-09,CUST490,41,Male,Rajshahi,Bluetooth Headphones,Accessories,3,5458,20,13099.2,10718.95,2380.25,COD,Delivered
+ORD1337,2025-10-16,CUST163,27,Male,Dhaka,LED Monitor,Monitors,4,2357,5,8956.6,7316.23,1640.37,Nagad,Returned
+ORD1338,2025-07-18,CUST938,51,Female,Sylhet,Webcam,Camera,4,2063,20,6601.6,4674.47,1927.13,Card,Returned
+ORD1339,2026-03-14,CUST831,20,Male,Dhaka,LED Monitor,Monitors,2,2648,0,5296.0,3477.34,1818.66,Card,Delivered
+ORD1340,2025-08-05,CUST180,45,Male,Barishal,USB-C Cable,Cables,2,6822,5,12961.8,7969.05,4992.75,bKash,Returned
+ORD1341,2025-10-12,CUST506,53,Female,Khulna,Gaming Keyboard,Gaming,3,7661,0,22983.0,13180.69,9802.31,Card,Delivered
+ORD1342,2025-03-18,CUST251,54,Male,Dhaka,Webcam,Camera,5,4480,15,19040.0,13000.51,6039.49,COD,Delivered
+ORD1343,2025-12-02,CUST597,54,Female,Dhaka,Gaming Keyboard,Gaming,5,7391,15,31411.75,22960.77,8450.98,bKash,Delivered
+ORD1344,2025-07-25,CUST139,43,Female,Barishal,Laptop Stand,Office,4,5264,20,16844.8,15451.3,1393.5,bKash,Delivered
+ORD1345,2026-02-23,CUST912,37,Female,Khulna,Smart Watch,Wearables,4,7548,10,27172.8,16770.54,10402.26,Card,Cancelled
+ORD1346,2025-08-15,CUST892,38,Female,Barishal,USB-C Cable,Cables,1,1300,10,1170.0,1056.95,113.05,Card,Returned
+ORD1347,2025-07-28,CUST858,49,Female,Dhaka,USB-C Cable,Cables,1,3818,5,3627.1,3041.52,585.58,bKash,Delivered
+ORD1348,2025-09-26,CUST682,19,Male,Chattogram,Power Bank,Power,3,3504,5,9986.4,7996.89,1989.51,bKash,Delivered
+ORD1349,2025-12-27,CUST303,35,Female,Rajshahi,Wireless Mouse,Electronics,2,3939,0,7878.0,6285.61,1592.39,Card,Cancelled
+ORD1350,2025-08-17,CUST281,48,Female,Khulna,Wireless Mouse,Electronics,1,2181,10,1962.9,1487.38,475.52,bKash,Delivered
+ORD1351,2026-03-14,CUST685,31,Male,Barishal,Smart Watch,Wearables,1,424,15,360.4,238.88,121.52,bKash,Cancelled
+ORD1352,2026-03-19,CUST899,18,Female,Chattogram,Smart Watch,Wearables,2,5537,15,9412.9,7625.4,1787.5,bKash,Returned
+ORD1353,2025-06-06,CUST829,59,Female,Rajshahi,USB-C Cable,Cables,1,2267,20,1813.6,1739.63,73.97,Card,Delivered
+ORD1354,2025-09-24,CUST944,57,Female,Sylhet,Smart Watch,Wearables,4,1987,15,6755.8,5019.79,1736.01,COD,Delivered
+ORD1355,2025-06-02,CUST800,24,Female,Dhaka,Gaming Keyboard,Gaming,5,4799,20,19196.0,17143.07,2052.93,Nagad,Delivered
+ORD1356,2025-09-22,CUST883,33,Male,Sylhet,Smart Watch,Wearables,3,2339,10,6315.3,4216.22,2099.08,Card,Cancelled
+ORD1357,2025-06-01,CUST365,44,Female,Rajshahi,Laptop Stand,Office,3,6108,0,18324.0,13320.78,5003.22,COD,Returned
+ORD1358,2025-11-23,CUST903,48,Female,Sylhet,USB-C Cable,Cables,5,3011,5,14302.25,11070.03,3232.22,Nagad,Delivered
+ORD1359,2026-01-15,CUST364,53,Male,Barishal,Laptop Stand,Office,5,2606,0,13030.0,8822.75,4207.25,Nagad,Cancelled
+ORD1360,2025-06-07,CUST530,39,Female,Khulna,USB-C Cable,Cables,1,3110,5,2954.5,2335.41,619.09,Nagad,Delivered
+ORD1361,2025-11-14,CUST172,48,Male,Sylhet,LED Monitor,Monitors,1,639,20,511.2,451.57,59.63,COD,Cancelled
+ORD1362,2026-03-14,CUST254,26,Male,Khulna,Power Bank,Power,4,2644,15,8989.6,5971.18,3018.42,Card,Returned
+ORD1363,2025-09-07,CUST440,58,Male,Khulna,Laptop Stand,Office,4,2791,5,10605.8,8488.15,2117.65,COD,Delivered
+ORD1364,2025-03-23,CUST601,23,Male,Sylhet,Smart Watch,Wearables,4,1915,5,7277.0,5404.86,1872.14,Card,Cancelled
+ORD1365,2025-01-20,CUST646,30,Female,Dhaka,Phone Case,Mobile,4,3714,15,12627.6,9708.33,2919.27,Nagad,Returned
+ORD1366,2025-05-08,CUST331,40,Female,Chattogram,Wireless Mouse,Electronics,2,5743,0,11486.0,8260.79,3225.21,COD,Delivered
+ORD1367,2025-01-24,CUST405,36,Female,Barishal,Webcam,Camera,5,2707,5,12858.25,7682.84,5175.41,Nagad,Delivered
+ORD1368,2025-04-07,CUST268,43,Male,Chattogram,Gaming Keyboard,Gaming,2,7584,15,12892.8,9813.66,3079.14,bKash,Cancelled
+ORD1369,2025-03-28,CUST226,41,Male,Rajshahi,USB-C Cable,Cables,2,6213,0,12426.0,8812.73,3613.27,Nagad,Returned
+ORD1370,2025-12-01,CUST956,19,Male,Barishal,Wireless Mouse,Electronics,5,5065,0,25325.0,18455.13,6869.87,COD,Delivered
+ORD1371,2025-12-26,CUST256,31,Male,Khulna,Phone Case,Mobile,4,1212,20,3878.4,2997.22,881.18,Card,Cancelled
+ORD1372,2025-03-12,CUST528,24,Male,Khulna,Power Bank,Power,1,2411,20,1928.8,1720.3,208.5,COD,Delivered
+ORD1373,2026-03-02,CUST635,30,Female,Barishal,USB-C Cable,Cables,4,5188,5,19714.4,15772.53,3941.87,Card,Delivered
+ORD1374,2025-12-19,CUST592,39,Male,Dhaka,Wireless Mouse,Electronics,2,4690,15,7973.0,7464.57,508.43,COD,Cancelled
+ORD1375,2025-03-18,CUST192,50,Male,Barishal,Bluetooth Headphones,Accessories,1,7042,20,5633.6,5145.14,488.46,COD,Delivered
+ORD1376,2025-02-21,CUST932,29,Male,Khulna,LED Monitor,Monitors,2,2625,10,4725.0,3545.61,1179.39,Nagad,Cancelled
+ORD1377,2026-01-24,CUST146,18,Male,Barishal,Phone Case,Mobile,3,6250,0,18750.0,10793.43,7956.57,bKash,Delivered
+ORD1378,2025-02-17,CUST481,39,Male,Dhaka,LED Monitor,Monitors,3,5293,10,14291.1,12499.76,1791.34,Card,Delivered
+ORD1379,2025-09-02,CUST919,44,Male,Dhaka,Smart Watch,Wearables,4,7046,15,23956.4,20751.14,3205.26,bKash,Cancelled
+ORD1380,2025-09-05,CUST921,54,Female,Chattogram,Laptop Stand,Office,1,1049,15,891.65,835.04,56.61,Card,Delivered
+ORD1381,2025-09-07,CUST215,44,Female,Dhaka,Wireless Mouse,Electronics,5,7266,5,34513.5,24720.08,9793.42,COD,Delivered
+ORD1382,2025-10-23,CUST841,54,Male,Barishal,Wireless Mouse,Electronics,3,5971,20,14330.4,13564.31,766.09,Nagad,Returned
+ORD1383,2025-05-08,CUST593,40,Female,Chattogram,Webcam,Camera,5,980,15,4165.0,3570.45,594.55,COD,Delivered
+ORD1384,2026-03-22,CUST269,22,Female,Khulna,Power Bank,Power,2,7153,15,12160.1,11158.75,1001.35,bKash,Delivered
+ORD1385,2025-07-13,CUST512,33,Male,Rajshahi,Wireless Mouse,Electronics,3,4352,5,12403.2,9121.36,3281.84,Card,Returned
+ORD1386,2025-03-02,CUST609,59,Male,Dhaka,Bluetooth Headphones,Accessories,4,7217,15,24537.8,19362.01,5175.79,Card,Delivered
+ORD1387,2026-02-10,CUST718,57,Female,Sylhet,Power Bank,Power,1,4698,0,4698.0,3631.53,1066.47,bKash,Cancelled
+ORD1388,2026-03-09,CUST565,39,Female,Barishal,Gaming Keyboard,Gaming,4,3176,0,12704.0,9788.16,2915.84,Nagad,Cancelled
+ORD1389,2025-07-01,CUST949,58,Female,Sylhet,Bluetooth Headphones,Accessories,4,998,5,3792.4,2197.97,1594.43,Nagad,Cancelled
+ORD1390,2026-02-25,CUST834,44,Male,Khulna,Wireless Mouse,Electronics,1,7547,5,7169.65,5154.25,2015.4,bKash,Delivered
+ORD1391,2025-04-08,CUST833,39,Male,Rajshahi,Phone Case,Mobile,1,1966,15,1671.1,1518.99,152.11,COD,Cancelled
+ORD1392,2025-10-29,CUST616,26,Female,Dhaka,Bluetooth Headphones,Accessories,5,6525,15,27731.25,21972.77,5758.48,COD,Returned
+ORD1393,2026-04-12,CUST281,55,Male,Barishal,Webcam,Camera,4,4156,20,13299.2,12649.07,650.13,bKash,Delivered
+ORD1394,2025-07-16,CUST528,56,Male,Khulna,Webcam,Camera,4,5165,10,18594.0,14175.03,4418.97,Card,Delivered
+ORD1395,2025-11-05,CUST816,50,Female,Barishal,LED Monitor,Monitors,3,6792,5,19357.2,11967.0,7390.2,Nagad,Cancelled
+ORD1396,2025-05-29,CUST803,40,Male,Barishal,USB-C Cable,Cables,5,1845,5,8763.75,6628.4,2135.35,bKash,Returned
+ORD1397,2025-10-15,CUST591,55,Female,Barishal,Gaming Keyboard,Gaming,5,6019,0,30095.0,22734.04,7360.96,Nagad,Delivered
+ORD1398,2025-01-28,CUST786,21,Male,Khulna,Power Bank,Power,1,1072,0,1072.0,699.84,372.16,bKash,Delivered
+ORD1399,2025-06-01,CUST308,52,Male,Khulna,Laptop Stand,Office,3,7076,0,21228.0,15633.59,5594.41,Card,Delivered
+ORD1400,2025-10-15,CUST498,33,Female,Barishal,Power Bank,Power,5,7284,5,34599.0,27331.44,7267.56,COD,Delivered
+ORD1401,2025-01-28,CUST113,34,Male,Sylhet,Phone Case,Mobile,4,6656,10,23961.6,21586.07,2375.53,Card,Delivered
+ORD1402,2026-01-07,CUST298,36,Female,Chattogram,Webcam,Camera,3,4677,20,11224.8,8461.35,2763.45,COD,Delivered
+ORD1403,2025-05-23,CUST669,34,Male,Chattogram,Power Bank,Power,2,1177,15,2000.9,1320.53,680.37,Nagad,Delivered
+ORD1404,2026-04-21,CUST430,56,Male,Barishal,LED Monitor,Monitors,3,6013,5,17137.05,10115.98,7021.07,Nagad,Delivered
+ORD1405,2025-06-12,CUST638,32,Male,Sylhet,Power Bank,Power,5,3133,0,15665.0,11931.85,3733.15,COD,Returned
+ORD1406,2025-06-28,CUST326,31,Female,Khulna,Phone Case,Mobile,2,4648,20,7436.8,6125.34,1311.46,Nagad,Delivered
+ORD1407,2026-02-26,CUST870,59,Male,Dhaka,Webcam,Camera,2,4545,15,7726.5,7445.53,280.97,Nagad,Delivered
+ORD1408,2025-01-21,CUST798,38,Female,Dhaka,Webcam,Camera,2,7725,20,12360.0,9514.63,2845.37,Card,Delivered
+ORD1409,2025-07-11,CUST626,50,Female,Rajshahi,Smart Watch,Wearables,5,402,20,1608.0,1551.66,56.34,COD,Delivered
+ORD1410,2025-03-27,CUST891,52,Male,Barishal,Gaming Keyboard,Gaming,2,4409,0,8818.0,7107.46,1710.54,COD,Delivered
+ORD1411,2026-03-01,CUST819,45,Male,Barishal,Phone Case,Mobile,2,7045,0,14090.0,8531.59,5558.41,bKash,Delivered
+ORD1412,2025-04-02,CUST913,34,Male,Sylhet,Gaming Keyboard,Gaming,4,510,0,2040.0,1162.35,877.65,bKash,Delivered
+ORD1413,2025-01-09,CUST498,25,Male,Barishal,Phone Case,Mobile,4,3895,15,13243.0,10390.56,2852.44,COD,Cancelled
+ORD1414,2025-09-15,CUST208,36,Female,Sylhet,Wireless Mouse,Electronics,5,5941,0,29705.0,19206.63,10498.37,COD,Delivered
+ORD1415,2025-10-01,CUST325,26,Female,Sylhet,Phone Case,Mobile,4,3436,0,13744.0,9318.11,4425.89,Nagad,Cancelled
+ORD1416,2025-01-06,CUST666,53,Male,Dhaka,Smart Watch,Wearables,2,5748,10,10346.4,9294.47,1051.93,COD,Delivered
+ORD1417,2025-02-13,CUST412,31,Female,Chattogram,Webcam,Camera,5,3428,20,13712.0,11960.84,1751.16,Card,Cancelled
+ORD1418,2026-03-04,CUST358,30,Male,Chattogram,Laptop Stand,Office,5,1518,5,7210.5,4626.96,2583.54,COD,Returned
+ORD1419,2025-05-09,CUST200,30,Female,Khulna,Power Bank,Power,4,799,10,2876.4,2337.41,538.99,Nagad,Delivered
+ORD1420,2025-04-10,CUST425,49,Female,Khulna,Bluetooth Headphones,Accessories,2,2535,20,4056.0,2884.06,1171.94,Nagad,Cancelled
+ORD1421,2025-06-11,CUST538,28,Male,Khulna,Laptop Stand,Office,5,4833,20,19332.0,15668.91,3663.09,bKash,Delivered
+ORD1422,2026-01-11,CUST439,48,Female,Rajshahi,Smart Watch,Wearables,4,7082,10,25495.2,16607.65,8887.55,Nagad,Delivered
+ORD1423,2025-02-11,CUST961,35,Male,Sylhet,Power Bank,Power,4,1091,5,4145.8,3160.84,984.96,bKash,Delivered
+ORD1424,2025-11-20,CUST131,55,Female,Sylhet,Bluetooth Headphones,Accessories,1,7508,0,7508.0,5851.65,1656.35,bKash,Delivered
+ORD1425,2026-02-01,CUST252,41,Female,Chattogram,Smart Watch,Wearables,5,4652,20,18608.0,15757.91,2850.09,Nagad,Delivered
+ORD1426,2025-09-15,CUST110,60,Male,Sylhet,Power Bank,Power,4,4381,0,17524.0,11515.58,6008.42,bKash,Returned
+ORD1427,2025-10-17,CUST775,27,Female,Khulna,LED Monitor,Monitors,2,1504,5,2857.6,2114.37,743.23,COD,Delivered
+ORD1428,2025-01-22,CUST784,31,Female,Rajshahi,USB-C Cable,Cables,4,714,10,2570.4,1855.68,714.72,Card,Delivered
+ORD1429,2025-09-24,CUST748,35,Female,Sylhet,Wireless Mouse,Electronics,1,5512,10,4960.8,3185.22,1775.58,bKash,Delivered
+ORD1430,2025-07-12,CUST328,51,Female,Khulna,Gaming Keyboard,Gaming,4,5014,0,20056.0,13828.59,6227.41,Nagad,Delivered
+ORD1431,2025-08-14,CUST269,32,Male,Sylhet,Webcam,Camera,4,254,20,812.8,800.76,12.04,Nagad,Delivered
+ORD1432,2026-02-23,CUST221,60,Male,Rajshahi,Laptop Stand,Office,2,1489,10,2680.2,2121.96,558.24,Nagad,Cancelled
+ORD1433,2025-10-30,CUST265,59,Female,Dhaka,LED Monitor,Monitors,1,5731,15,4871.35,3893.27,978.08,bKash,Delivered
+ORD1434,2025-09-20,CUST140,54,Male,Dhaka,Webcam,Camera,2,5052,5,9598.8,5924.74,3674.06,bKash,Delivered
+ORD1435,2025-11-23,CUST119,60,Female,Dhaka,Power Bank,Power,2,3521,20,5633.6,5715.96,-82.36,bKash,Delivered
+ORD1436,2026-03-02,CUST520,56,Male,Sylhet,LED Monitor,Monitors,5,7304,15,31042.0,21767.86,9274.14,bKash,Returned
+ORD1437,2025-11-02,CUST704,22,Male,Rajshahi,Smart Watch,Wearables,5,1573,10,7078.5,6284.41,794.09,Card,Delivered
+ORD1438,2025-09-16,CUST800,44,Male,Sylhet,Wireless Mouse,Electronics,1,1857,20,1485.6,1452.34,33.26,COD,Delivered
+ORD1439,2025-09-30,CUST615,25,Male,Rajshahi,Webcam,Camera,4,5113,0,20452.0,16095.59,4356.41,bKash,Returned
+ORD1440,2025-07-09,CUST995,20,Female,Chattogram,Wireless Mouse,Electronics,5,7547,15,32074.75,26073.07,6001.68,Card,Delivered
+ORD1441,2025-03-10,CUST360,48,Male,Dhaka,Webcam,Camera,3,6791,20,16298.4,11742.66,4555.74,Nagad,Returned
+ORD1442,2026-01-16,CUST908,18,Male,Sylhet,Phone Case,Mobile,5,2311,5,10977.25,6372.31,4604.94,COD,Delivered
+ORD1443,2025-08-07,CUST767,55,Female,Khulna,Gaming Keyboard,Gaming,2,3549,10,6388.2,4108.16,2280.04,Card,Returned
+ORD1444,2025-07-31,CUST665,53,Female,Chattogram,Webcam,Camera,3,2457,15,6265.35,5556.57,708.78,Nagad,Returned
+ORD1445,2026-02-01,CUST822,43,Male,Barishal,LED Monitor,Monitors,5,2278,10,10251.0,8040.95,2210.05,COD,Cancelled
+ORD1446,2025-09-18,CUST510,39,Male,Chattogram,LED Monitor,Monitors,2,6615,5,12568.5,7634.71,4933.79,Card,Cancelled
+ORD1447,2025-11-04,CUST545,23,Male,Khulna,Bluetooth Headphones,Accessories,1,6944,5,6596.8,4703.52,1893.28,bKash,Delivered
+ORD1448,2025-07-25,CUST728,59,Female,Barishal,Webcam,Camera,1,509,15,432.65,407.85,24.8,COD,Delivered
+ORD1449,2026-04-22,CUST923,51,Female,Chattogram,LED Monitor,Monitors,4,287,5,1090.6,895.04,195.56,COD,Returned
+ORD1450,2025-12-12,CUST136,41,Male,Barishal,Power Bank,Power,5,5921,5,28124.75,21200.18,6924.57,COD,Delivered
+ORD1451,2025-07-22,CUST515,55,Male,Sylhet,Smart Watch,Wearables,1,6587,15,5598.95,4250.88,1348.07,COD,Cancelled
+ORD1452,2025-10-14,CUST696,40,Female,Khulna,Bluetooth Headphones,Accessories,1,4702,10,4231.8,3507.96,723.84,bKash,Returned
+ORD1453,2025-05-14,CUST279,44,Male,Sylhet,LED Monitor,Monitors,2,7816,15,13287.2,11024.07,2263.13,COD,Returned
+ORD1454,2025-05-12,CUST997,52,Female,Barishal,Gaming Keyboard,Gaming,3,7957,0,23871.0,18304.15,5566.85,Card,Delivered
+ORD1455,2026-02-02,CUST569,47,Male,Rajshahi,LED Monitor,Monitors,5,6507,5,30908.25,24548.24,6360.01,COD,Delivered
+ORD1456,2025-04-28,CUST919,38,Female,Khulna,Phone Case,Mobile,1,5390,5,5120.5,3949.61,1170.89,COD,Cancelled
+ORD1457,2026-01-19,CUST940,39,Male,Sylhet,USB-C Cable,Cables,3,2553,0,7659.0,5037.41,2621.59,bKash,Delivered
+ORD1458,2026-01-18,CUST799,30,Female,Barishal,Gaming Keyboard,Gaming,3,1990,20,4776.0,3717.22,1058.78,bKash,Delivered
+ORD1459,2025-05-08,CUST956,57,Female,Chattogram,Smart Watch,Wearables,2,1893,5,3596.7,2289.57,1307.13,COD,Delivered
+ORD1460,2025-10-05,CUST143,48,Female,Sylhet,LED Monitor,Monitors,1,5228,0,5228.0,3954.18,1273.82,Nagad,Delivered
+ORD1461,2026-04-14,CUST623,35,Female,Chattogram,Smart Watch,Wearables,5,4220,5,20045.0,17213.1,2831.9,bKash,Delivered
+ORD1462,2025-06-27,CUST503,29,Female,Dhaka,Phone Case,Mobile,5,4118,20,16472.0,11505.53,4966.47,Card,Delivered
+ORD1463,2025-02-21,CUST433,41,Female,Chattogram,Wireless Mouse,Electronics,1,5722,5,5435.9,3733.29,1702.61,Nagad,Delivered
+ORD1464,2025-09-13,CUST534,31,Female,Barishal,LED Monitor,Monitors,3,5222,10,14099.4,10164.09,3935.31,Nagad,Delivered
+ORD1465,2025-10-22,CUST802,32,Male,Barishal,Smart Watch,Wearables,4,3892,5,14789.6,10964.24,3825.36,Nagad,Delivered
+ORD1466,2026-02-14,CUST856,27,Female,Dhaka,Phone Case,Mobile,5,7214,15,30659.5,21747.94,8911.56,bKash,Delivered
+ORD1467,2025-06-11,CUST904,49,Female,Khulna,Laptop Stand,Office,4,7517,20,24054.4,20872.46,3181.94,COD,Delivered
+ORD1468,2025-09-01,CUST959,58,Male,Rajshahi,Laptop Stand,Office,1,691,5,656.45,531.88,124.57,Nagad,Delivered
+ORD1469,2025-05-12,CUST452,19,Female,Dhaka,Gaming Keyboard,Gaming,3,4790,20,11496.0,11518.96,-22.96,Nagad,Cancelled
+ORD1470,2025-10-03,CUST278,36,Female,Khulna,USB-C Cable,Cables,5,4925,20,19700.0,17864.54,1835.46,Card,Cancelled
+ORD1471,2025-11-20,CUST248,28,Female,Rajshahi,Bluetooth Headphones,Accessories,4,3321,20,10627.2,8333.87,2293.33,Card,Delivered
+ORD1472,2025-12-01,CUST398,35,Female,Khulna,Laptop Stand,Office,1,3014,5,2863.3,1912.81,950.49,Card,Delivered
+ORD1473,2026-03-14,CUST123,26,Male,Barishal,Power Bank,Power,5,3888,15,16524.0,11570.22,4953.78,Nagad,Cancelled
+ORD1474,2025-02-02,CUST999,48,Male,Dhaka,USB-C Cable,Cables,1,1567,15,1331.95,905.43,426.52,Card,Returned
+ORD1475,2025-12-02,CUST499,37,Male,Chattogram,Bluetooth Headphones,Accessories,1,2350,20,1880.0,1391.02,488.98,Nagad,Delivered
+ORD1476,2025-12-06,CUST465,38,Female,Rajshahi,Laptop Stand,Office,2,4515,5,8578.5,5036.16,3542.34,Nagad,Returned
+ORD1477,2025-11-02,CUST567,58,Female,Sylhet,Laptop Stand,Office,4,7969,20,25500.8,19055.47,6445.33,Nagad,Delivered
+ORD1478,2025-07-07,CUST522,34,Male,Khulna,Power Bank,Power,4,2060,0,8240.0,5515.05,2724.95,COD,Delivered
+ORD1479,2025-01-05,CUST804,49,Female,Khulna,Laptop Stand,Office,5,3017,10,13576.5,10207.77,3368.73,COD,Delivered
+ORD1480,2025-04-07,CUST521,53,Female,Rajshahi,Webcam,Camera,3,2094,0,6282.0,4384.94,1897.06,bKash,Delivered
+ORD1481,2025-11-17,CUST345,51,Female,Khulna,Phone Case,Mobile,4,2007,10,7225.2,4587.09,2638.11,Nagad,Delivered
+ORD1482,2025-11-23,CUST566,57,Female,Khulna,Bluetooth Headphones,Accessories,2,1694,5,3218.6,2128.31,1090.29,Card,Delivered
+ORD1483,2025-01-12,CUST290,24,Female,Khulna,Wireless Mouse,Electronics,3,1446,0,4338.0,3521.69,816.31,bKash,Cancelled
+ORD1484,2025-09-10,CUST322,39,Female,Khulna,Wireless Mouse,Electronics,4,2107,0,8428.0,4978.29,3449.71,Card,Delivered
+ORD1485,2025-03-16,CUST157,35,Female,Dhaka,Wireless Mouse,Electronics,4,2905,0,11620.0,9037.54,2582.46,Card,Delivered
+ORD1486,2025-03-04,CUST886,33,Female,Rajshahi,Smart Watch,Wearables,2,6894,15,11719.8,10666.78,1053.02,bKash,Cancelled
+ORD1487,2025-04-17,CUST584,42,Female,Khulna,USB-C Cable,Cables,1,3975,0,3975.0,2745.56,1229.44,bKash,Cancelled
+ORD1488,2025-11-23,CUST405,30,Female,Dhaka,Power Bank,Power,1,4467,0,4467.0,2762.37,1704.63,bKash,Delivered
+ORD1489,2025-05-22,CUST698,25,Female,Chattogram,Phone Case,Mobile,2,2858,0,5716.0,3402.09,2313.91,COD,Delivered
+ORD1490,2026-01-30,CUST191,33,Male,Rajshahi,LED Monitor,Monitors,5,5839,20,23356.0,17279.0,6077.0,COD,Cancelled
+ORD1491,2025-11-27,CUST257,52,Male,Chattogram,Gaming Keyboard,Gaming,5,7825,0,39125.0,22150.2,16974.8,Card,Delivered
+ORD1492,2025-08-13,CUST850,30,Male,Barishal,Power Bank,Power,3,6659,10,17979.3,15332.18,2647.12,Card,Delivered
+ORD1493,2025-08-13,CUST672,36,Female,Chattogram,Smart Watch,Wearables,2,7561,0,15122.0,10298.56,4823.44,bKash,Returned
+ORD1494,2026-03-02,CUST713,53,Male,Dhaka,Gaming Keyboard,Gaming,3,6199,15,15807.45,11610.81,4196.64,bKash,Delivered
+ORD1495,2026-02-02,CUST753,50,Female,Barishal,Smart Watch,Wearables,3,4636,10,12517.2,9354.54,3162.66,bKash,Delivered
+ORD1496,2026-01-05,CUST164,60,Female,Chattogram,Gaming Keyboard,Gaming,5,6557,20,26228.0,20145.48,6082.52,Card,Returned
+ORD1497,2025-06-14,CUST213,24,Male,Dhaka,Webcam,Camera,2,2519,10,4534.2,3328.34,1205.86,bKash,Delivered
+ORD1498,2025-01-17,CUST684,59,Female,Barishal,USB-C Cable,Cables,1,1076,15,914.6,647.47,267.13,Card,Returned
+ORD1499,2025-11-07,CUST835,22,Male,Chattogram,Webcam,Camera,5,2296,0,11480.0,7449.55,4030.45,Card,Delivered
+ORD1500,2026-04-01,CUST525,41,Male,Sylhet,Wireless Mouse,Electronics,4,3156,20,10099.2,9477.33,621.87,Nagad,Returned
